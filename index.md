@@ -4,7 +4,7 @@ Cette page web recense toutes les informations professionelles à mon sujet.
 
 ### Page LinkedIn
 
-Voici le [lien de mon compte LinkedIn](https://www.linkedin.com/in/ludo-bernard-77537220b/)
+Voici le lien de mon compte [LinkedIn](https://www.linkedin.com/in/ludo-bernard-77537220b/)
 
 ### Curriculum Vitae
 
