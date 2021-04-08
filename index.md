@@ -16,7 +16,7 @@ Ma [lettre de motivation](https://github.com/LudoBernard/Portfolio/blob/main/CL_
 
 ### Blogpost
 
-[Blogpost]
+[Blogpost](https://github.com/LudoBernard/Portfolio/blob/main/Blogposts%20(1).pdf)
 
 ### Projets
 
