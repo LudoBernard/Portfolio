@@ -10,6 +10,10 @@ Voici le [lien de mon compte LinkedIn](https://www.linkedin.com/in/ludo-bernard-
 
 Mon [CV](https://github.com/LudoBernard/Portfolio/blob/main/CV_2021-04-08_Ludo_BERNARD.pdf)
 
+### Lettre de motivation
+
+Ma [lettre de motivation](https://github.com/LudoBernard/Portfolio/blob/main/CL_2021-04-08_Ludo_BERNARD.pdf)
+
 ### Blogpost
 
 [Blogpost]
