@@ -8,7 +8,7 @@ Voici le [lien de mon compte LinkedIn](https://www.linkedin.com/in/ludo-bernard-
 
 ### Curriculum Vitae
 
-Mon [CV]
+Mon [CV](https://github.com/LudoBernard/Portfolio/blob/main/CV_2021-04-08_Ludo_BERNARD.pdf)
 
 ### Blogpost
 
